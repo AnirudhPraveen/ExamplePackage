@@ -4,6 +4,6 @@ greet() = print("Hello World")
 
 include("someFile.jl")
 
-export(fun)
+export(printDocstrDict)
 
 end
