@@ -1,5 +1,9 @@
 module ExamplePackage
 
-# Write your package code here.
+greet() = print("Hello World")
+
+include("someFile.jl")
+
+export(fun)
 
 end
