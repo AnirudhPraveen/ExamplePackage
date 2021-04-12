@@ -5,4 +5,4 @@
 [![Coverage](https://codecov.io/gh/AnirudhPraveen/ExamplePackage.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/AnirudhPraveen/ExamplePackage.jl)
 [![Coverage](https://coveralls.io/repos/github/AnirudhPraveen/ExamplePackage.jl/badge.svg?branch=master)](https://coveralls.io/github/AnirudhPraveen/ExamplePackage.jl?branch=master)
 
-Learing how o build a Julia package
+### Learing how to build a Julia package
